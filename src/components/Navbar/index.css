@@ -1,0 +1,10 @@
+.nav-container {
+    position: static;
+    width: 96px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    
+    background: #19151E;
+    box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.25);
+}

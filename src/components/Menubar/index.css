@@ -1,0 +1,13 @@
+.menu-container {
+    position: absolute;
+    width: 1312px;
+    height: 88px;
+    left: 112px;
+    top: 16px;
+    
+    background: #19151E;
+    opacity: 0.7;
+    border-radius: 8px;
+}
+
+
