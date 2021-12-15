@@ -1,9 +1,21 @@
 .footer-container {
     position: absolute;
-    width: 1344px;
+    width: 1044px;
     height: 91px;
     left: 96px;
     top: 933px;
     
     background: #19151E;
+}
+
+@media (min-width:768px) {
+    .footer-container{
+        width: 93%;
+    }
+}
+
+.footer-img {
+    width: 895px;
+    height: 75px;
+    margin-left: 50px;
 }

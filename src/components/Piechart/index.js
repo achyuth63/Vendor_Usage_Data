@@ -1,5 +1,6 @@
 import React from "react";
 import { PieChart, Pie, Legend, Cell, ResponsiveContainer } from "recharts"
+import LongMenu from "./components/LongMenu"
 
 import './index.css'
 
@@ -44,10 +45,7 @@ const Piechart = () => {
    <div className="card">
      <div className="head">
        <h1 className="heading">Vendor Usage</h1>
-       <img src= 'https://res.cloudinary.com/des7uyibo/image/upload/q_100/v1638442457/Vector_dahlhi.png'
-       className="image"
-       alt="imag" 
-       />
+      <LongMenu />
      </div>
     <ResponsiveContainer  width="100%" height={120}>
     

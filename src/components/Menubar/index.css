@@ -11,3 +11,8 @@
 }
 
 
+@media (min-width:768px) {
+    .menu-container{
+        width: 90%;
+    }
+}

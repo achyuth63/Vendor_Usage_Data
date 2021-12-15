@@ -13,7 +13,11 @@ const App = () => {
             <Menubar />
             <div className="main">
             <Navbar/>
+         
             <Piechart/>
+          
+           
+            
             <Footer/>
             </div>
       </>
